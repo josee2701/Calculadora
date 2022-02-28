@@ -24,6 +24,10 @@ public class JavaApplication1 {
 
     public class calculo {
 
+        public calculo(double z) {
+            this.z = z;
+        }
+
         double z;
 
         public double sumar(double x, double y) {
