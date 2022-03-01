@@ -17,8 +17,6 @@ public class JavaApplication1 {
         System.out.println("la suma es: " + oper.sumar(x, y));
         System.out.println("la resta es: " + oper.restar(x, y));
         System.out.println("la multiplicar es: " + oper.multiplicar(x, y));
-        System.out.println("la dividir es: " + oper.dividir(x, y));
-
-        
+        System.out.println("la dividir es: " + oper.dividir(x, y)); 
     }
 }
