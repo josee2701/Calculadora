@@ -19,5 +19,6 @@ public class JavaApplication1 {
         System.out.println("la multiplicar es: " + oper.multiplicar(x, y));
         System.out.println("la dividir es: " + oper.dividir(x, y));
 
+        
     }
 }
